@@ -1,7 +1,5 @@
 # Multiple Disease Prediction Web App
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 
 *A web application for predicting multiple diseases using machine learning models. This project includes prediction models for diabetes, Parkinson's disease,lung cancer, Autism, Stroke, COVID 19 and Anemia*
 
@@ -12,7 +10,6 @@
 - [Usage](#usage)
 - [Models](#models)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -29,7 +26,7 @@ The diseases currently supported by this web app include:
 
 ## Web App
 
-- [Access the Web App](https://multiple-disease-prediction-apse-aiml.streamlit.app/) - Use the web app to predict multiple diseases.
+- [Access the Web App](https://multiple-disease-prediction-aimlgit-djbpfvuwrrnfhtyuqn5uqu.streamlit.app/) - Use the web app to predict multiple diseases.
 
 ## Installation
 
@@ -72,11 +69,6 @@ The machine learning models used in this web app are trained on publicly availab
 
 *Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.*
 
-## License
-
-*This project is licensed under the [MIT License](LICENSE).*
-
----
 
 
 
